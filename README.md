@@ -1,18 +1,16 @@
 <h1 align="center">Hi<img height="40"/>, I'm Lord Mugen</h1> 
 <h3 align="center">A Colombian full stack web developer, self-taught and eager to learn</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lord-Mugen" alt="Lord-Mugen" /></a> </p> 
-<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lord-Mugen" alt="Lord-Mugen" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/christianjavierruizcortes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christianjavierruizcortes/" height="30" width="40" /></a> <br>
-
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<br><br>
 <p align="center">
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
