@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img height="40"/>, I'm Lord Mugen</h1> 
+<h1 align="center">Hi<img height="40"/>, I'm Christian</h1> 
 <h3 align="center">A Colombian full stack web developer, self-taught and eager to learn</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lord-Mugen" alt="Lord-Mugen" /></a> </p>
